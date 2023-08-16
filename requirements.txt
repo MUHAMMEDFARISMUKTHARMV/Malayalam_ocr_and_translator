@@ -1,0 +1,6 @@
+os
+streamlit
+pytesseeract
+pdf2image
+googletrans
+clipboard
