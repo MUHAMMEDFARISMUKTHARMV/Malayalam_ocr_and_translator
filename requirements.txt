@@ -2,3 +2,4 @@ streamlit==0.89.0
 pytesseract==0.3.8
 pdf2image==1.16.0
 googletrans==4.0.0-rc1
+clipboard==0.0.4
